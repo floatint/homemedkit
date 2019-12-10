@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\DB\homemedkit_server\homemedkit_server\bin\Debug\netcoreapp2.1\homemedkit_server.deps.json
+C:\Users\User\Desktop\DB\homemedkit_server\homemedkit_server\bin\Debug\netcoreapp2.1\homemedkit_server.runtimeconfig.json
+C:\Users\User\Desktop\DB\homemedkit_server\homemedkit_server\bin\Debug\netcoreapp2.1\homemedkit_server.runtimeconfig.dev.json
+C:\Users\User\Desktop\DB\homemedkit_server\homemedkit_server\bin\Debug\netcoreapp2.1\homemedkit_server.dll
+C:\Users\User\Desktop\DB\homemedkit_server\homemedkit_server\obj\Debug\netcoreapp2.1\homemedkit_server.csprojAssemblyReference.cache
+C:\Users\User\Desktop\DB\homemedkit_server\homemedkit_server\obj\Debug\netcoreapp2.1\homemedkit_server.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\DB\homemedkit_server\homemedkit_server\obj\Debug\netcoreapp2.1\homemedkit_server.RazorAssemblyInfo.cache
+C:\Users\User\Desktop\DB\homemedkit_server\homemedkit_server\obj\Debug\netcoreapp2.1\homemedkit_server.RazorAssemblyInfo.cs
+C:\Users\User\Desktop\DB\homemedkit_server\homemedkit_server\obj\Debug\netcoreapp2.1\homemedkit_server.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\DB\homemedkit_server\homemedkit_server\obj\Debug\netcoreapp2.1\homemedkit_server.AssemblyInfo.cs
+C:\Users\User\Desktop\DB\homemedkit_server\homemedkit_server\obj\Debug\netcoreapp2.1\homemedkit_server.RazorTargetAssemblyInfo.cache
+C:\Users\User\Desktop\DB\homemedkit_server\homemedkit_server\bin\Debug\netcoreapp2.1\homemedkit_server.pdb
+C:\Users\User\Desktop\DB\homemedkit_server\homemedkit_server\obj\Debug\netcoreapp2.1\homemedkit_server.dll
+C:\Users\User\Desktop\DB\homemedkit_server\homemedkit_server\obj\Debug\netcoreapp2.1\homemedkit_server.pdb
